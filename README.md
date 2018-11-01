@@ -1,3 +1,9 @@
+一个小demo，涉略Vue基本组件知识，父子传参，跨域访问，axios的使用
+
+
+
+
+
 # translater
 
 > A Vue.js project
